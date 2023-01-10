@@ -2,7 +2,7 @@
 
 This is my submission for the Capstone portion of the IBM Data Science Professional Certificate on Coursera: https://www.coursera.org/learn/applied-data-science-capstone, developed by Yan Luo and Joseph Santarcangelo.
 
-The scenario is that we are imagining we are a part of a company competing with SpaceX. We are to predict if the first stage of the Falcon 9 rocket will successfully land.
+The scenario is that we are imagining we are a part of a company competing with SpaceX. They say the Falcon 9 rocket launches cost $62 million, in contrast with the estimated $165 from the competition. We are to predict if the first stage of the Falcon 9 rocket will successfully land, so that we know the cost of the launch. 
 
 The steps involved are:
 1) [Data collection](https://github.com/joeastro5/IBM_Capstone/blob/main/data-collection-api.ipynb) with SpaceX REST API.
